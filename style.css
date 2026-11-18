@@ -19,7 +19,7 @@ body {
 /* Diseño del botón de Twitter */
 .boton-twitter {
 
-    background-color: #c964eb; /* Establece el azul característico de Twitter */
+    background-color: #303030; /* Establece el azul característico de Twitter */
 
     color: white; /* Define el color del texto */
 
@@ -40,6 +40,6 @@ body {
 /* Efecto al pasar el mouse */
 .boton-twitter:hover {
 
-    background-color: #bf71e1; /* Oscurece el botón al pasar el mouse */
+    background-color: #59585a; /* Oscurece el botón al pasar el mouse */
 
 }
